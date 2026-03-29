@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal: Voice Channel Your Sales Page | Maria the Leader</title>
+<meta name="description" content="Build your entire sales page using only your voice. No writing. No blank page. No templates. The Signal framework, a Telegram bot, and a proven method — fully self-paced for $297.">
+<meta name="keywords" content="sales page without writing, voice to sales page, build sales page fast, storyselling sales page, Maria the Leader, Signal sales page framework, sales page copywriting coach">
+<meta property="og:title" content="Signal: Voice Channel Your Sales Page | Maria the Leader">
+<meta property="og:description" content="I built a full sales page in under 3 hours using only my voice. This is the exact system. Fully self-paced. $297 founding price.">
+<meta property="og:url" content="https://signal.mariatheleader.com">
+<meta property="og:type" content="website">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How do I write a sales page without writing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using the Signal method created by Maria the Leader, you answer guided prompts through voice notes inside a Telegram channel. Your voice gets transcribed, structured, and shaped into your full sales page copy — no writing required."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does it take to build a sales page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Using the Signal voice extraction method, the copy for a full sales page can be built in under 3 hours. Maria the Leader built her own Monetize Your Memoirs sales page in under 3 hours using only voice notes and the Signal framework."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the Signal sales page framework?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Signal is a 12-section sales page framework built by Maria the Leader that guides coaches and online business owners through building their sales page using voice notes instead of writing. Each section corresponds to a part of a high-converting sales page and is extracted through guided prompts in Telegram."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I sell my offer without a sales page?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Without a sales page, you end up repeating yourself in DMs, on endless calls, and in posts that have to do all the selling themselves. A sales page becomes the central signal of your business — the place you send people that explains your offer clearly and converts without you having to be present."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I build a sales page using voice notes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The Signal method by Maria the Leader is built entirely around voice-first content creation. You speak your answers to guided prompts inside Telegram, transcribe them using a custom bot, and shape them into your sales page copy. No writing required."
+      }
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Course",
+  "name": "Signal: Voice Channel Your Sales Page",
+  "description": "A fully self-paced program for coaches and online business owners who want to build their sales page using only their voice. The Signal framework, a Telegram bot, and a proven 3-hour method.",
+  "provider": {
+    "@type": "Person",
+    "name": "Maria the Leader",
+    "url": "https://signal.mariatheleader.com"
+  },
+  "offers": {
+    "@type": "Offer",
+    "price": "297",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/LimitedAvailability"
+  },
+  "courseMode": "online"
+}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Bricolage+Grotesque:wght@300;400;500;600&display=swap" rel="stylesheet">
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Bricolage Grotesque',sans-serif;background:#FAFAF8;color:#000000;line-height:1.8}
+.container{max-width:680px;margin:0 auto;padding:0 24px}
+.hero{padding:80px 0 64px;text-align:center;background:#C9A84C}
+.hero-eyebrow{font-family:'Bricolage Grotesque',sans-serif;font-size:11px;letter-spacing:.14em;text-transform:uppercase;color:#0a0a0a;margin-bottom:24px}
+.hero h1{font-family:'Libre Baskerville',serif;font-size:clamp(30px,5vw,46px);font-weight:400;line-height:1.2;color:#0a0a0a;margin-bottom:20px}
+.hero h1 em{font-style:italic;color:#0a0a0a;text-decoration:underline;text-decoration-color:#0a0a0a;text-underline-offset:4px}
+.hero-sub{font-family:'Bricolage Grotesque',sans-serif;font-size:17px;color:#2a1a0a;max-width:520px;margin:0 auto 16px}
+.hero-diff{font-family:'Libre Baskerville',serif;font-size:17px;color:#0a0a0a;font-style:italic;max-width:480px;margin:0 auto 40px}
+.btn{display:inline-block;background:#0a0a0a;color:#C9A84C;font-family:'Bricolage Grotesque',sans-serif;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;padding:16px 40px;border-radius:2px}
+.btn:hover{background:#1a1a1a}
+.btn-outline{display:inline-block;border:1px solid #C9A84C;color:#C9A84C;font-family:'Bricolage Grotesque',sans-serif;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;text-decoration:none;padding:14px 40px;border-radius:2px;margin-top:12px}
+.pricing-note{font-family:'Bricolage Grotesque',sans-serif;font-size:13px;color:#555;margin-top:16px}
+.divider{border:none;border-top:1px solid #e8e4de;margin:64px 0}
+.eyebrow{font-family:'Bricolage Grotesque',sans-serif;font-size:10px;letter-spacing:.14em;text-transform:uppercase;color:#C9A84C;margin-bottom:16px}
+h2{font-family:'Libre Baskerville',serif;font-size:clamp(24px,4vw,32px);font-weight:400;line-height:1.25;color:#000000;margin-bottom:20px}
+h2 em{font-style:italic;color:#C9A84C}
+p{font-size:16px;color:#34330d;margin-bottom:16px;line-height:1.8}
+p strong{color:#000000;font-weight:400;font-style:italic}
+.proof-bar{background:#0a0a0a;padding:32px 0;text-align:center;margin-top:0}
+.proof-inner{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#333;max-width:680px;margin:0 auto;border:1px solid #333;overflow:hidden}
+.proof-stat{background:#0a0a0a;padding:20px 16px;text-align:center}
+.proof-number{font-family:'Libre Baskerville',serif;font-size:26px;color:#C9A84C;line-height:1;margin-bottom:4px}
+.proof-label{font-family:'Bricolage Grotesque',sans-serif;font-size:11px;color:#666}
+.diff-block{background:#0a0a0a;padding:48px 40px;margin:48px 0;border-radius:2px;text-align:center}
+.diff-block h2{color:#f5f0e8;margin-bottom:16px;font-size:clamp(20px,3.5vw,28px)}
+.diff-block h2 em{color:#C9A84C}
+.diff-block p{color:#a89e8e;margin-bottom:0;font-size:16px}
+.step-grid{margin:32px 0}
+.step-row{display:grid;grid-template-columns:48px 1fr;gap:20px;padding:20px 0;border-bottom:1px solid #f0ede8;align-items:start}
+.step-row:last-child{border-bottom:none}
+.step-num{font-family:'Libre Baskerville',serif;font-size:24px;color:#C9A84C;font-style:italic;line-height:1;padding-top:4px}
+.step-content h3{font-family:'Libre Baskerville',serif;font-size:18px;font-weight:400;color:#000000;margin-bottom:6px}
+.step-content p{font-size:15px;color:#34330d;margin:0}
+.section-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0}
+.section-item{background:#f5f0e8;border:1px solid #e8e4de;padding:12px 16px;border-radius:2px;font-size:13px;color:#34330d;font-family:'Bricolage Grotesque',sans-serif;line-height:1.4}
+.section-item span{display:block;font-size:11px;color:#888;margin-top:3px;font-style:italic}
+.value-row{display:flex;justify-content:space-between;align-items:baseline;padding:12px 0;border-bottom:1px solid #f0ede8;gap:16px}
+.value-row:last-of-type{border-bottom:none}
+.value-item{font-size:16px;color:#34330d;flex:1}
+.value-price{font-family:'Bricolage Grotesque',sans-serif;font-size:13px;color:#C9A84C;white-space:nowrap;font-style:italic}
+.value-total{display:flex;justify-content:space-between;padding:20px 0 0;margin-top:8px;border-top:2px solid #000000}
+.value-total span{font-family:'Libre Baskerville',serif;font-size:18px;color:#000000}
+.pricing-card-wrap{display:grid;grid-template-columns:1fr 1fr;gap:20px;margin:32px 0}
+.pricing-card{border:1px solid #e8e4de;padding:28px 24px;text-align:center;border-radius:2px}
+.pricing-card.featured{border:2px solid #C9A84C;background:#fdf9f0}
+.price-label{font-family:'Bricolage Grotesque',sans-serif;font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:#888;margin-bottom:12px}
+.price-amount{font-family:'Libre Baskerville',serif;font-size:40px;color:#000000;line-height:1;margin-bottom:4px}
+.price-strike{font-family:'Libre Baskerville',serif;font-size:20px;color:#bbb;text-decoration:line-through;margin-left:8px}
+.price-sub{font-family:'Bricolage Grotesque',sans-serif;font-size:13px;color:#888}
+.price-tag{display:inline-block;background:#C9A84C;color:#0a0a0a;font-family:'Bricolage Grotesque',sans-serif;font-size:10px;letter-spacing:.08em;text-transform:uppercase;padding:4px 10px;border-radius:2px;margin-bottom:12px}
+blockquote{border-left:3px solid #C9A84C;padding:8px 0 8px 28px;margin:40px 0;background:#fdf9f0}
+blockquote p{font-family:'Libre Baskerville',serif;font-size:18px;font-style:italic;color:#000000;line-height:1.6}
+.about-block{background:#f5f0e8;padding:40px;border-radius:2px;margin:40px 0}
+.about-block p{font-size:16px;color:#34330d;margin-bottom:16px}
+.about-block p.lead{font-family:'Libre Baskerville',serif;color:#000000;font-size:18px;font-style:italic;margin-bottom:20px}
+.footer-cta{background:#0a0a0a;padding:80px 0;text-align:center;margin-top:80px}
+.footer-cta h2{font-family:'Libre Baskerville',serif;color:#f5f0e8;margin-bottom:16px}
+.footer-cta h2 em{color:#C9A84C}
+.footer-cta p{color:#a89e8e;margin-bottom:32px}
+.footer-cta .pricing-note{color:#444;margin-top:20px;font-family:'Bricolage Grotesque',sans-serif;font-size:13px}
+.deadline-bar{background:#0a0a0a;padding:12px 24px;text-align:center}
+.deadline-bar p{font-family:'Bricolage Grotesque',sans-serif;font-size:13px;font-weight:600;color:#C9A84C;margin:0;letter-spacing:.04em}
+@media(max-width:560px){
+.pricing-card-wrap,.section-grid,.proof-inner{grid-template-columns:1fr}
+.about-block{padding:28px 20px}
+.diff-block{padding:32px 20px}
+.step-row{grid-template-columns:1fr;gap:4px}
+}
+</style>
+</head>
+<body>
+
+<img src="SIGNAL_BANNER.png" alt="Signal: A Sales Page That Books Out Dream Clients" style="width:100%;display:block;margin:0;padding:0;">
+<div class="deadline-bar">
+  <p>Founding Price $297 — ends April 20th. Goes to $497 after.</p>
+</div>
+
+<div class="hero">
+  <div class="container">
+    <p class="hero-eyebrow">Fully Self-Paced &nbsp; Telegram-Based &nbsp; No Writing Required</p>
+    <h1>Build your sales page<br>with your <em>voice,</em><br>not your thumbs.</h1>
+    <p class="hero-sub">Signal is the exact system I used to write a full sales page in under 3 hours — using only voice notes, a Telegram bot, and a framework built around how you actually speak.</p>
+    <p class="hero-diff">Your voice is the missing piece.<br>This is how you use it.</p>
+    <a href="QUICKBOOKS-LINK-HERE" class="btn">Get Instant Access — $297</a>
+    <p class="pricing-note" style="color:#2a1a0a;">Price goes to $497 on April 20th.</p>
+  </div>
+</div>
+
+<div class="proof-bar">
+  <div class="proof-inner">
+    <div class="proof-stat"><div class="proof-number">3hrs</div><div class="proof-label">to build a full sales page</div></div>
+    <div class="proof-stat"><div class="proof-number">12</div><div class="proof-label">sections. all from your voice</div></div>
+    <div class="proof-stat"><div class="proof-number">0</div><div class="proof-label">writing required</div></div>
+  </div>
+</div>
+
+<div class="container">
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">The Problem</p>
+    <h2>You don't have a sales problem.<br>You have a <em>signal problem.</em></h2>
+    <p>You're posting. You're showing up. You're answering the same questions in DMs over and over. But there's no central place that does the selling for you.</p>
+    <p>No sales page means every piece of content has to carry the whole weight of your offer. Every DM becomes a mini sales call. Every post has to explain, convince, and convert all at once.</p>
+    <p>A sales page fixes that. It becomes the anchor of your business — the place you send people that does the explaining, the convincing, and the converting while you sleep.</p>
+    <p>The only reason you don't have one yet is because nobody showed you how to build it without staring at a blank Google Doc for three hours and giving up.</p>
+    <p><strong>That's what Signal solves.</strong></p>
+  </div>
+
+  <div class="diff-block">
+    <h2>Most people build sales pages<br>by staring at a blank page<br><em>and guessing.</em></h2>
+    <p>Signal works differently. Instead of writing, you speak. Instead of guessing, you follow a 12-section framework built around how you naturally talk about your work. Instead of figuring it out alone, you have a Telegram bot transcribing every word and a proven structure holding it all together.</p>
+  </div>
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">How It Works</p>
+    <h2>Four steps.<br>One <em>finished asset.</em></h2>
+
+    <div class="step-grid">
+      <div class="step-row">
+        <div class="step-num">1</div>
+        <div class="step-content">
+          <h3>Enter the Signal Channel</h3>
+          <p>You get instant access to a private Telegram channel with all 12 framework sections laid out and ready for you.</p>
+        </div>
+      </div>
+      <div class="step-row">
+        <div class="step-num">2</div>
+        <div class="step-content">
+          <h3>Speak your answers</h3>
+          <p>Each section has a guided prompt. You answer it with a 2 to 3 minute voice note. No writing. No overthinking. Just speak the truth as you've experienced it.</p>
+        </div>
+      </div>
+      <div class="step-row">
+        <div class="step-num">3</div>
+        <div class="step-content">
+          <h3>Transcribe with the bot</h3>
+          <p>Use the Signal transcription bot to instantly convert your voice notes into text. Your words, your voice, your message — already written.</p>
+        </div>
+      </div>
+      <div class="step-row">
+        <div class="step-num">4</div>
+        <div class="step-content">
+          <h3>Shape and publish</h3>
+          <p>Take your transcriptions into Google Docs, do a light edit, and plug into the framework. Your sales page is done. Ready to publish wherever you want.</p>
+        </div>
+      </div>
+    </div>
+
+    <img src="marialaptop.jpg" alt="Maria the Leader at her laptop" style="width:100%;height:400px;object-fit:cover;object-position:top;display:block;margin:40px 0;border-radius:2px;">
+
+    <blockquote>
+      <p>"I built this landing page — the one you're reading right now — in under 3 hours using only my voice. Signal is exactly how I did it."</p>
+    </blockquote>
+  </div>
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">The Framework</p>
+    <h2>12 sections.<br>Every one <em>extracted from your voice.</em></h2>
+    <p>The Signal framework walks you through every section of a high-converting sales page — in the exact order that builds trust, addresses objections, and moves someone from curious to ready to buy.</p>
+
+    <div class="section-grid">
+      <div class="section-item">Identity and Desire<span>Who she wants to become — your headline</span></div>
+      <div class="section-item">Internal Permission<span>Why wanting this makes sense — permission paragraph</span></div>
+      <div class="section-item">The Quiet Fears<span>What she won't say out loud — real fears section</span></div>
+      <div class="section-item">The Future Without Self-Betrayal<span>Best possible outcome — your vision section</span></div>
+      <div class="section-item">The Experience of the Offer<span>What it feels like inside — offer introduction</span></div>
+      <div class="section-item">What They Receive<span>What they walk away with — featured deliverables</span></div>
+      <div class="section-item">Proof Through Change<span>Before and after — how we work together</span></div>
+      <div class="section-item">The Value Stack<span>What it's worth vs what it costs</span></div>
+      <div class="section-item">Pricing With Integrity<span>Why it's priced where it is — investment section</span></div>
+      <div class="section-item">Next Steps<span>What to do now — final CTA</span></div>
+      <div class="section-item">About Me<span>What you see, what changes, who it's for</span></div>
+      <div class="section-item">The Signal Prompt<span>Final AI prompt to assemble everything into a lean landing page</span></div>
+    </div>
+  </div>
+
+  <img src="mariatablet.jpg" alt="Maria the Leader" style="width:100%;height:400px;object-fit:cover;object-position:center;display:block;margin:48px 0;border-radius:0;">
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">What's Included</p>
+    <h2>Everything you need.<br><em>Nothing you don't.</em></h2>
+
+    <div class="value-row"><span class="value-item">Access to the Signal Telegram channel — all 12 framework sections with guided prompts</span><span class="value-price">Value $2k</span></div>
+    <div class="value-row"><span class="value-item">The Signal transcription bot — instant voice-to-text conversion inside Telegram</span><span class="value-price">Value $500</span></div>
+    <div class="value-row"><span class="value-item">The Signal Sales Page Framework — your complete 12-section structure</span><span class="value-price">Value $2k</span></div>
+    <div class="value-row"><span class="value-item">The final AI assembly prompt — one prompt to shape everything into a finished page</span><span class="value-price">Value $500</span></div>
+    <div class="value-row"><span class="value-item">Your completed sales page copy in Google Docs — ready to publish anywhere</span><span class="value-price">Value $5k</span></div>
+    <div class="value-total"><span>Total Value</span><span>$10,000+</span></div>
+  </div>
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">Investment</p>
+    <h2>Simple.<br><em>Founding price ends April 20th.</em></h2>
+    <p>This is the same framework and method I use inside Monetize Your Memoirs — my 4-month minimind — and with my private clients. I made it self-paced and accessible because every coach with a real offer deserves a sales page that actually sounds like them.</p>
+
+    <div class="pricing-card-wrap">
+      <div class="pricing-card featured">
+        <span class="price-tag">Founding Price</span>
+        <p class="price-label">Until April 20th</p>
+        <div style="display:flex;align-items:baseline;justify-content:center;gap:4px;">
+          <span class="price-amount">$297</span>
+          <span class="price-strike">$497</span>
+        </div>
+        <p class="price-sub">one payment. instant access.</p>
+      </div>
+      <div class="pricing-card">
+        <p class="price-label">After April 20th</p>
+        <p class="price-amount">$497</p>
+        <p class="price-sub">permanent price</p>
+      </div>
+    </div>
+
+    <p>This is for the coach, mentor, or visionary leader who already has an offer that works and needs a sales page that reflects it. It's not for someone just starting out or looking for a template to copy.</p>
+    <p>If your offer is solid but your message isn't landing — this is the fix.</p>
+  </div>
+
+  <hr class="divider">
+
+  <div class="section">
+    <p class="eyebrow">About Maria</p>
+    <div style="display:grid;grid-template-columns:1fr 1fr;gap:32px;align-items:start;margin-bottom:40px;"><img src="maria laugh.jpg" alt="Maria the Leader" style="width:100%;height:400px;object-fit:cover;object-position:top;border-radius:2px;"><div>
+      <p class="lead">I built a sales page for my own offer in under 3 hours using only my voice.</p>
+      <p>Not because I'm a fast writer. Because I stopped writing and started speaking. I used the Signal framework, the transcription bot, and the same method you're about to get access to.</p>
+      <p>I've been doing value-led marketing for five years. I generated $79k in two years with no sales calls, no email marketing, and no cold outreach. Just story-driven content and a sales page that did the work.</p>
+      <p style="margin-bottom:0;">Signal is how I built that page. And it's how you're going to build yours.</p>
+    </div>
+  </div></div>
+
+</div>
+
+<div class="footer-cta">
+  <div class="container">
+    <h2>Your offer deserves a page<br>that sounds like <em>you.</em></h2>
+    <p>Stop repeating yourself in DMs. Stop explaining your offer on every call. Build the asset that does it for you — in your voice, in under 3 hours.</p>
+    <a href="QUICKBOOKS-LINK-HERE" class="btn">Yes, I'm Ready — Get Access for $297</a>
+    <p class="pricing-note">Founding price ends April 20th. Goes to $497 after.</p>
+    <p class="pricing-note" style="margin-top:12px;">Questions? DM @mariatheleader on Instagram</p>
+  </div>
+</div>
+
+</body>
+</html>
+HTMLEOF
